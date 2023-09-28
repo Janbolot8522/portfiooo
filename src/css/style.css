@@ -1,0 +1,175 @@
+body{
+  background-color: white;
+}
+.desktop-1 {
+    background-color: white;
+    padding: 21px 65px 84px 33px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .flex-wrapper-one {
+    background-color: rgba(217, 217, 217, 1);
+    margin-bottom: 19px;
+    margin-left: 398px;
+    border-radius: 40px;
+    padding: 18px 61px 18px 62px;
+    display: flex;
+    align-items: center;
+  }
+  .text-1 {
+    height: 57px;
+    width: 278px;
+    color: rgba(0, 0, 0, 1);
+    display: flex;
+    font-family: var(--inter-40-regular-family);
+    font-size: var(--inter-40-regular-size);
+    font-weight: var(--inter-40-regular-weight);
+    line-height: var(--inter-40-regular-line-height);
+  }
+  .flex-wrapper-six {
+    display: flex;
+    align-items: flex-start;
+  }
+  .flex-wrapper-six:not(:last-of-type) {
+    margin-bottom: 122px;
+  }
+  .relative-wrapper-one {
+    margin-top: 45px;
+    margin-right: 459px;
+    position: relative;
+  }
+  .group-1 {
+    background: linear-gradient(
+      139deg,
+      rgba(237, 215, 21, 1) 43%,
+      rgba(69, 237, 76, 1) 78%
+    );
+    border-radius: 30px;
+    padding: 24px 44px 34px 38px;
+    position: relative;
+  }
+  .uchus-v-shkole-11-klass-razrabotchik-chto-t {
+    height: 249px;
+    width: 509px;
+    color: rgba(178, 39, 39, 1);
+    display: flex;
+    font-family: var(--inter-36-regular-family);
+    font-size: var(--inter-36-regular-size);
+    font-weight: var(--inter-36-regular-weight);
+    line-height: var(--inter-36-regular-line-height);
+  }
+  .image-6 {
+    width: 333.21px;
+    height: 300px;
+    position: absolute;
+    right: -330.21px;
+    top: -3px;
+  }
+  .relative-wrapper-two {
+    position: relative;
+  }
+  .arrow-1 {
+    width: 207.88px;
+    position: absolute;
+    left: -111px;
+    top: 138px;
+  }
+  .like-me {
+    height: 48px;
+    width: 216px;
+    color: rgba(0, 0, 0, 1);
+    display: flex;
+    position: absolute;
+    left: -127px;
+    bottom: -13px;
+    font-family: var(--inter-36-regular-family);
+    font-size: var(--inter-36-regular-size);
+    font-weight: var(--inter-36-regular-weight);
+    line-height: var(--inter-36-regular-line-height);
+  }
+  .flex-wrapper-two {
+    background-size: 100% 100%;
+    background-position: center;
+    background-image: url("https://static.overlay-tech.com/assets/91b87809-2631-4f6f-9402-0ecf49dcf7f1.png");
+    padding: 156px 24px 124px 211px;
+    position: relative;
+  }
+  .image-2 {
+    width: 57px;
+    height: 74px;
+  }
+  .flex-wrapper-three {
+    background-color: rgba(237, 215, 21, 1);
+    margin-right: 141px;
+    border-radius: 30px;
+    padding: 23px 19px 20px 34px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .html-css {
+    height: 58px;
+    width: 292px;
+    color: rgba(0, 0, 0, 1);
+    display: flex;
+    margin-bottom: 30px;
+    font-family: var(--inter-36-regular-family);
+    font-size: var(--inter-36-regular-size);
+    font-weight: var(--inter-36-regular-weight);
+    line-height: var(--inter-36-regular-line-height);
+  }
+  .image-3 {
+    width: 269.97px;
+    height: 200px;
+    margin-left: 3px;
+  }
+  .flex-wrapper-four {
+    background-color: rgba(69, 237, 76, 1);
+    margin-right: 122px;
+    border-radius: 30px;
+    padding: 25px 37.76px 46px 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .web-design-1 {
+    height: 54px;
+    width: 230px;
+    color: rgba(0, 0, 0, 1);
+    display: flex;
+    margin-bottom: 6px;
+    margin-left: 13px;
+    font-family: var(--inter-36-regular-family);
+    font-size: var(--inter-36-regular-size);
+    font-weight: var(--inter-36-regular-weight);
+    line-height: var(--inter-36-regular-line-height);
+  }
+  .image-4 {
+    width: 259.24px;
+    height: 200px;
+  }
+  .flex-wrapper-five {
+    background-color: rgba(21, 120, 237, 1);
+    border-radius: 30px;
+    padding: 23px 37px 46px 38px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .word-gold {
+    height: 52px;
+    width: 270px;
+    color: rgba(0, 0, 0, 1);
+    display: flex;
+    margin-bottom: 10px;
+    font-family: var(--inter-36-regular-family);
+    font-size: var(--inter-36-regular-size);
+    font-weight: var(--inter-36-regular-weight);
+    line-height: var(--inter-36-regular-line-height);
+  }
+  .image-5 {
+    width: 200px;
+    height: 200px;
+    margin-left: 28px;
+  }
